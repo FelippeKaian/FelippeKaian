@@ -1,0 +1,6 @@
+- 👋 Eu sou Felippe Kaian
+- 👀 Sou estudante
+- 🌱 Estudo no CE Dr. Gabriel Carneiro Martins, 2ºC
+- 💞️ As linguagens do meu site são HTML e CSS
+- 📫 Meus referencias são do Alura
+- Contato: felippe.ferreira.oliveira@escola.pr.gov.br
